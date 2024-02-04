@@ -17,7 +17,7 @@ const ENDINGS = [
 
 const POSITIVES = [
   "I am delighted to inform you that",
-  "It is with the utmost pleasure that I can hereby inform you that"
+  "It is with the utmost pleasure that I am hereby to inform you that"
 ];
 
 const NEGATIVES = [
